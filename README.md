@@ -2,7 +2,7 @@
 
 #### BIO
 - 🔭 I’m currently working on developing an API for an app that promotes responsible consumption, called 'concon'. The project is to presented to a board in the Federal Univesity of Sergipe and to FAPITEC, a science and technology promoter in Sergipe state, Brazil.
-- 🌱 I’m currently learning server-side technologies, specially Node.JS, Java (Spring) and C++ (Drogon, Oatpp, Boost).
+- 🌱 I’m currently learning server-side technologies, especially Node.JS, Java (Spring) and C++ (Boost + Beast).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-primo&exclude_repo=commandline-breviary&hide=Procfile&layout=compact&langs_count=9&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
