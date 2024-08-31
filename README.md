@@ -1,7 +1,5 @@
-### 👋
 
-#### BIO
-- Currently learning Terraform, Nix and other IaC technologies. Also, learning functional programming.
+[![Igor Primo's GitHub stats](https://github-readme-stats.vercel.app/api?username=igor-primo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
